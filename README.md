@@ -6,8 +6,8 @@ The aim of this project is to produce a landing page for a generic business. Thi
 
 The images used are free-to-use and were reproduced from Unsplash. 
 
-Main Cake - https://unsplash.com/photos/kPxsqUGneXQ
-Cupcake - https://unsplash.com/photos/Ltv7a5m8i4c
-Brownie - https://unsplash.com/photos/YGY4vdUDZ48
-Cookies - https://unsplash.com/photos/HuzdnhOfTKs
-Donut - https://unsplash.com/photos/KY5ZBCIE18E
+- Main Cake - https://unsplash.com/photos/kPxsqUGneXQ
+- Cupcake - https://unsplash.com/photos/Ltv7a5m8i4c
+- Brownie - https://unsplash.com/photos/YGY4vdUDZ48
+- Cookies - https://unsplash.com/photos/HuzdnhOfTKs
+- Donut - https://unsplash.com/photos/KY5ZBCIE18E

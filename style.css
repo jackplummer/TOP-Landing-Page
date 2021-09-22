@@ -1,0 +1,173 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+  font-weight: bolder;
+}
+
+li {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.header, .footer {
+  background-color: #1F2937;
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+
+.header {
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.footer {
+  justify-content: center;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.main-one {
+  background-color: #1F2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  gap: 100px;
+}
+
+.big-image {
+  width: 500px;
+  height: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+  margin: 0 0 10px 0;
+}
+
+.main-one p, .main-one button {
+  font-size: 18px;
+  color: #E5E7EB;
+  margin: 0 0 10px 0;
+}
+
+.main-one button {
+  background-color: #3882F6;
+  padding: 5px 8px;
+  border-radius: 10px;
+}
+
+.main-one-left {
+  text-align: left;
+}
+
+.main-two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 500px;
+}
+
+.image-matrix {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.image-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #1F2937;
+}
+
+.image-text img {
+  height: 250px;
+  width: auto;
+  border: #3882F6;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+}
+
+.main-three {
+  background-color: #E5E7EB;
+  display: flex;
+  height: 300px;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote p {
+  font-size: 36px;
+  font-style: italic;
+  text-align: center;
+  width: 1000px;
+  margin: 0 0 10px 0;
+}
+
+.quote h3 {
+  text-align: right;
+  width: 1000px;
+}
+
+.main-four {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-up-banner {
+  background-color: #3882F6;
+  width: 1000px;
+  height: 200px;
+  border-radius: 10px;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.sign-up-banner h3 {
+  color: #F9FAF8;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.sign-up-banner p {
+  color: #F9FAF8;
+  margin: 5px 0 0 0;
+}
+
+.sign-up-banner button {
+  background-color: #3882F6;
+  border-color: #ffffff;
+  border-radius: 10px;
+  color: #E5E7EB;
+  font-weight: bold;
+  padding: 5px 25px;
+}
+
